@@ -7,7 +7,7 @@
 	</a>
 
 <br>
-    <div align="center">4th year Computer Engineering, Robotics, and Chinese student passionate about AI for national defense and support. My current [computer vision] research focuses on dataset creation and model training for context-aware gaze estimation.</div>
+    <div align="justified">I develop machine learning systems and autonomous agents for platforms operating in contested, resource-constrained environments. My work focuses on resilient perception, decision-making, and autonomy under uncertainty, with an emphasis on building operationally grounded datasets, training robust policies, and validating performance in real-world deployment conditions.</div>
 <be>
 
 <p align="center">
