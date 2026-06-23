@@ -7,8 +7,9 @@
 	</a>
 
 <br>
-    <div align="justified">I develop machine learning systems and autonomous agents for platforms operating in contested, resource-constrained environments. My work focuses on resilient perception, decision-making, and autonomy under uncertainty, with an emphasis on building operationally grounded datasets, training robust policies, and validating performance in real-world deployment conditions.</div>
-<be>
+    <div align="justify">I develop machine learning systems and autonomous agents for platforms operating in contested, resource-constrained environments. My work focuses on resilient perception, decision-making, and autonomy under uncertainty, with an emphasis on building operationally grounded datasets, training robust policies, and validating performance in real-world deployment conditions.</div>
+</p>
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielamitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=30-Day%20Activity" width="100%" />
@@ -36,15 +37,15 @@ Tech Stack
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" /></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" /></td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" /></td>
-      <td align="center"><img src="https://d0.awsstatic.com/logos/powered-by-aws.png" width="48" alt="AWS Logo" /></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" alt="AWS" /></td>
     </tr>
   </table>
 </div>
 
 Connect
 ---
-[![Schedule a Meeting](https://img.shields.io/badge/-Schedule%20a%20Meeting-006BFF?style=flat-square&logo=calendly&logoColor=white&link=https://calendly.com/ezekielmitchll/30min)](https://calendly.com/ezekielmitchll/30min)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endr.us)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/ezekielmitchell)
+[![Schedule a Meeting](https://img.shields.io/badge/-Schedule%20a%20Meeting-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/ezekielmitchll/30min)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ezekiel@endr.us)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ezekielamitchell)
 
 
