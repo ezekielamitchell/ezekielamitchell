@@ -1,12 +1,6 @@
 
 
 <p align="center">
-    <br>
-    <a href="https://endr.us" target="_blank">
-  <img src="images/Vision evolved..png" width=100% height=100% alt="My Logo">
-	</a>
-
-<br>
     <div align="justify">I develop machine learning systems and autonomous agents for platforms operating in contested, resource-constrained environments. My work focuses on resilient perception, decision-making, and autonomy under uncertainty, with an emphasis on building operationally grounded datasets, training robust policies, and validating performance in real-world deployment conditions.</div>
 </p>
 <br>
