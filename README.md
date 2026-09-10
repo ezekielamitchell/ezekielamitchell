@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="images/profile-header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="images/profile-header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="images/profile-header-dark.svg">
   <img src="images/profile-header-light.svg" alt="Ezekiel A. Mitchell — service, systems, and autonomy." width="100%">
 </picture>
