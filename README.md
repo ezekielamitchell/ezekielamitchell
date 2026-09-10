@@ -12,7 +12,7 @@
   <a href="https://github.com/endrhq">endr</a>
 </p>
 
-I'm Ezekiel — a **U.S. Marine Corps veteran**, Computer Engineering student at **Seattle University**, and founder of **[endr](https://www.endrhq.com)**.
+I'm Ezekiel — a **U.S. Marine Corps veteran**, Computer Engineering student at **Seattle University**, and founder of **[endr](https://github.com/endrhq)**.
 
 I'm focused on defense autonomy, with a particular interest in perception, reliable software, and how people stay in command. My path runs from military service to embedded systems and computer vision; this is where I share the engineering along the way.
 
