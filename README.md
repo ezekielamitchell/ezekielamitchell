@@ -12,31 +12,30 @@
   <a href="https://github.com/endrhq">endr</a>
 </p>
 
-I'm Ezekiel — a **U.S. Marine Corps veteran**, Computer Engineering student at **Seattle University**, and founder of **[endr](https://github.com/endrhq)**.
+I'm Ezekiel — a **U.S. Marine Corps veteran** and founder of **[endr](https://github.com/endrhq)**.
 
 I'm focused on defense autonomy, with a particular interest in perception, reliable software, and how people stay in command. My path runs from military service to embedded systems and computer vision; this is where I share the engineering along the way.
 
 ### What I'm focused on
 
 - **Building endr.** A battlefield AI company developing autonomy software through a research- and simulation-first approach.
-- **Sharpening the fundamentals.** Python, Rust, Linux, and Git through small command-line tools, shared test cases, and clear documentation.
-- **Finishing my degree.** B.S. Computer Engineering, expected December 2026. Also learning Mandarin.
+- **Software craft.** Small Python and Rust tools, shared test cases, clear interfaces, and reproducible workflows.
 
 ### Selected work
 
 | Project | What you'll find |
 | :--- | :--- |
-| **[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)**<br>Team capstone | A modular data-center training simulator: ESP32 nodes, MQTT, and a Python simulation engine. Developed with a five-person Seattle University team. |
+| **[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)**<br>Team project | A modular data-center training simulator: ESP32 nodes, MQTT, and a Python simulation engine. Developed with a five-person team. |
 | **[project-aegis](https://github.com/ezekielamitchell/project-aegis)**<br>Robotics prototype | Python perception and temporal verification alongside a Rust control module. Hardware integration remains unfinished. |
 | **[GUARDEN](https://github.com/ezekielamitchell/GUARDEN)**<br>IoT prototype | Garden monitoring with camera-node firmware, MQTT ingestion, and a local dashboard. |
-| **[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)**<br>Learning in public | Python and Rust practice, small programs, and the foundations behind more ambitious systems. Work in progress. |
+| **[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)**<br>Python + Rust | Small programs, CLI experiments, and documented workflows. Work in progress. |
 
 ### How I think about the work
 
-I care about understanding the whole system: what it senses, how it fails, and what the person using it needs to know. Clear interfaces, reproducible tests, and honest limitations are the standard I'm working toward.
+I care about understanding the whole system: what it senses, how it fails, and what the person using it needs to know. I value clear interfaces, reproducible tests, and honest limitations.
 
 If you're working on perception, embedded systems, or human-machine teaming, I'd like to compare notes.
 
 ---
 
-<sub>Seattle, Washington · Service, curiosity, and a long-term commitment to the craft.</sub>
+<sub>Seattle, Washington · Also learning Mandarin · Service, curiosity, and a long-term commitment to the craft.</sub>
