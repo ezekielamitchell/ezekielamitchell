@@ -1,45 +1,40 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/profile-header-dark.svg">
+  <img src="images/profile-header-light.svg" alt="Ezekiel A. Mitchell — service, systems, and autonomy." width="100%">
+</picture>
 
-
-<p align="center">
-    <div align="justify">I develop machine learning systems and autonomous agents for platforms operating in contested, resource-constrained environments. My work focuses on resilient perception, decision-making, and autonomy under uncertainty, with an emphasis on building operationally grounded datasets, training robust policies, and validating performance in real-world deployment conditions.</div>
+<p>
+  <a href="https://ezekielamitchell.com">Website</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ezekielmitchell/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:ezekielmitchll@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/endrhq">endr</a>
 </p>
-<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielamitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=30-Day%20Activity" width="100%" />
-</p>
+I'm Ezekiel — a **U.S. Marine Corps veteran**, Computer Engineering student at **Seattle University**, and founder of **[endr](https://www.endrhq.com)**.
 
-<!-- <div align="center">About: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div> -->
+I'm focused on defense autonomy, with a particular interest in perception, reliable software, and how people stay in command. My path runs from military service to embedded systems and computer vision; this is where I share the engineering along the way.
 
-Tech Stack
+### What I'm focused on
+
+- **Building endr.** A battlefield AI company developing autonomy software through a research- and simulation-first approach.
+- **Sharpening the fundamentals.** Python, Rust, Linux, and Git through small command-line tools, shared test cases, and clear documentation.
+- **Finishing my degree.** B.S. Computer Engineering, expected December 2026. Also learning Mandarin.
+
+### Selected work
+
+| Project | What you'll find |
+| :--- | :--- |
+| **[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)**<br>Team capstone | A modular data-center training simulator: ESP32 nodes, MQTT, and a Python simulation engine. Developed with a five-person Seattle University team. |
+| **[project-aegis](https://github.com/ezekielamitchell/project-aegis)**<br>Robotics prototype | Python perception and temporal verification alongside a Rust control module. Hardware integration remains unfinished. |
+| **[GUARDEN](https://github.com/ezekielamitchell/GUARDEN)**<br>IoT prototype | Garden monitoring with camera-node firmware, MQTT ingestion, and a local dashboard. |
+| **[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)**<br>Learning in public | Python and Rust practice, small programs, and the foundations behind more ambitious systems. Work in progress. |
+
+### How I think about the work
+
+I care about understanding the whole system: what it senses, how it fails, and what the person using it needs to know. Clear interfaces, reproducible tests, and honest limitations are the standard I'm working toward.
+
+If you're working on perception, embedded systems, or human-machine teaming, I'd like to compare notes.
+
 ---
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="48" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" /></td>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="48" /></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" /></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" /></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://avatars.githubusercontent.com/u/3979232" width="48" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" width="48" /></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" /></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" /></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" alt="AWS" /></td>
-    </tr>
-  </table>
-</div>
 
-Connect
----
-[![Schedule a Meeting](https://img.shields.io/badge/-Schedule%20a%20Meeting-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/ezekielmitchll/30min)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ezekiel@endr.us)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ezekielamitchell)
-
-
+<sub>Seattle, Washington · Service, curiosity, and a long-term commitment to the craft.</sub>
