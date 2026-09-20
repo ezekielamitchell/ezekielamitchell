@@ -8,17 +8,17 @@
 <p>
   <a href="https://ezekielamitchell.com">Website</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/ezekielmitchell/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:ezekielmitchll@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="mailto:ezekiel@endrhq.com">Email</a> &nbsp; / &nbsp;
   <a href="https://github.com/endrhq">endr</a>
 </p>
 
 I'm Ezekiel — a **U.S. Marine Corps veteran** and founder of **[endr](https://github.com/endrhq)**.
 
-I'm focused on defense autonomy, with a particular interest in perception, reliable software, and how people stay in command. My path runs from military service to embedded systems and computer vision; this is where I share the engineering along the way.
+I'm focused on mission assurance for human–AI teams, with a particular interest in reproducible evaluation, reliable software, and how people stay in command. My path runs from military service to embedded systems and computer vision; this is where I share the engineering along the way.
 
 ### What I'm focused on
 
-- **Building endr.** A battlefield AI company developing autonomy software through a research- and simulation-first approach.
+- **Building endr.** A battlefield AI company developing mission-assurance software for human–AI teams. Our initial direction is reproducible evaluation in synthetic sustainment scenarios; resilient edge execution is longer-term work.
 - **Software craft.** Small Python and Rust tools, shared test cases, clear interfaces, and reproducible workflows.
 
 ### Selected work
@@ -34,7 +34,7 @@ I'm focused on defense autonomy, with a particular interest in perception, relia
 
 I care about understanding the whole system: what it senses, how it fails, and what the person using it needs to know. I value clear interfaces, reproducible tests, and honest limitations.
 
-If you're working on perception, embedded systems, or human-machine teaming, I'd like to compare notes.
+If you're working on mission assurance, reliable systems, or human-machine teaming, I'd like to compare notes.
 
 ---
 
