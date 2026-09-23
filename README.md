@@ -1,41 +1,44 @@
+<img src="images/coastal-pixels-v1.png" alt="A pixelated Pacific Northwest coast: moss-covered evergreens, sea stacks, and quiet water dissolving into warm grey fog." width="100%">
+
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="images/profile-header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="images/profile-header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="images/profile-header-dark.svg">
-  <img src="images/profile-header-light.svg" alt="Ezekiel A. Mitchell — service, systems, and autonomy." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="images/profile-title-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="images/profile-title-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/profile-title-dark.svg">
+  <img src="images/profile-title-light.svg" alt="Ezekiel A. Mitchell — service, systems, curiosity." width="100%">
 </picture>
 
 <p>
-  <a href="https://ezekielamitchell.com">Website</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/ezekielmitchell/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:ezekiel@endrhq.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://github.com/endrhq">endr</a>
+  <a href="https://ezekielamitchell.com">「 Website 」</a> &nbsp;
+  <a href="https://www.linkedin.com/in/ezekielmitchell/">「 LinkedIn 」</a> &nbsp;
+  <a href="mailto:ezekiel@endrhq.com">「 Email 」</a> &nbsp;
+  <a href="https://github.com/endrhq">「 endr 」</a>
 </p>
 
-I'm Ezekiel — a **U.S. Marine Corps veteran** and founder of **[endr](https://github.com/endrhq)**.
+I'm a **computer engineer, U.S. Marine Corps veteran, and founder of [endr](https://github.com/endrhq)**. I'm interested in where software meets the physical world: what a system senses, how it fails, and how people stay in command.
 
-I'm focused on mission assurance for human–AI teams, with a particular interest in reproducible evaluation, reliable software, and how people stay in command. My path runs from military service to embedded systems and computer vision; this is where I share the engineering along the way.
+This is a working notebook of that path — embedded systems, computer vision, Python and Rust, and the craft of making software understandable.
 
-### What I'm focused on
+### 「 NOW 」
 
-- **Building endr.** A battlefield AI company developing mission-assurance software for human–AI teams. Our initial direction is reproducible evaluation in synthetic sustainment scenarios; resilient edge execution is longer-term work.
-- **Software craft.** Small Python and Rust tools, shared test cases, clear interfaces, and reproducible workflows.
+Building **endr**, a battlefield AI company developing software for bounded human–AI mission coordination and execution. Our first product, **Mission Assurance Lab**, is in development, focused on reproducible evaluation of agent workflows under defined failures.
 
-### Selected work
+Pursuing an **M.Eng. in Computer Engineering at Dartmouth College, Class of 2028**, after completing my **B.S. in Computer Engineering at Seattle University**.
+
+### 「 SELECTED WORK 」
 
 | Project | What you'll find |
 | :--- | :--- |
-| **[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)**<br>Team project | A modular data-center training simulator: ESP32 nodes, MQTT, and a Python simulation engine. Developed with a five-person team. |
-| **[project-aegis](https://github.com/ezekielamitchell/project-aegis)**<br>Robotics prototype | Python perception and temporal verification alongside a Rust control module. Hardware integration remains unfinished. |
-| **[GUARDEN](https://github.com/ezekielamitchell/GUARDEN)**<br>IoT prototype | Garden monitoring with camera-node firmware, MQTT ingestion, and a local dashboard. |
-| **[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)**<br>Python + Rust | Small programs, CLI experiments, and documented workflows. Work in progress. |
+| **[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)**<br><sub>EMBEDDED · TEAM PROJECT</sub> | A data-center training simulator built with a five-person team: ESP32 nodes, MQTT, and Python. |
+| **[project-aegis](https://github.com/ezekielamitchell/project-aegis)**<br><sub>PERCEPTION · ROBOTICS PROTOTYPE</sub> | Python perception and temporal verification with a Rust control module. Hardware integration remains unfinished. |
+| **[GUARDEN](https://github.com/ezekielamitchell/GUARDEN)**<br><sub>IoT · PROTOTYPE</sub> | Garden monitoring with camera-node firmware, MQTT ingestion, and a local dashboard. |
+| **[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)**<br><sub>PYTHON · RUST · WORK IN PROGRESS</sub> | Small programs, CLI experiments, and documented engineering workflows. |
 
-### How I think about the work
+### 「 APPROACH 」
 
-I care about understanding the whole system: what it senses, how it fails, and what the person using it needs to know. I value clear interfaces, reproducible tests, and honest limitations.
+Clear interfaces, reproducible tests, and honest limitations. I care about understanding the whole system, including the person using it.
 
-If you're working on mission assurance, reliable systems, or human-machine teaming, I'd like to compare notes.
+Working on mission assurance, reliable systems, or human–machine teaming? [Let's compare notes](mailto:ezekiel@endrhq.com).
 
 ---
 
-<sub>Seattle, Washington · Also learning Mandarin · Service, curiosity, and a long-term commitment to the craft.</sub>
+<sub>Seattle, Washington &nbsp; / &nbsp; Learning Mandarin &nbsp; / &nbsp; Always a student of the craft.</sub>
