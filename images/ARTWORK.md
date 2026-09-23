@@ -3,6 +3,8 @@
 ## Profile navigation icons
 
 - Added September 23, 2026: self-contained SVG icons for Website, LinkedIn, Email, and endr in `icons/`.
+- Revised the same day: `*-v2.svg` uses transparent 32-pixel canvases, muted sage glyphs, simpler geometry, and more space between links. Original boxed icons remain as history.
+- The v2 endr icon reuses the existing path-identity-v1 symbol geometry, proportionally scaled and recolored for this personal-profile navigation row.
 - Used as linked images at the bottom of the personal profile, with descriptive alternative text and link titles.
 - The separate name/title SVGs are retained as historical assets and are no longer displayed in the profile README.
 

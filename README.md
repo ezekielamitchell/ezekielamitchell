@@ -23,8 +23,8 @@ I'm exploring how human–AI teams can work reliably when information, communica
 <sub>Seattle, Washington &nbsp; / &nbsp; Learning Mandarin &nbsp; / &nbsp; Always a student of the craft.</sub>
 
 <p>
-  <a href="https://ezekielamitchell.com" title="Website"><img src="images/icons/website.svg" alt="Website" width="40" height="40"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/ezekielmitchell/" title="LinkedIn"><img src="images/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"></a> &nbsp;
-  <a href="mailto:ezekiel@endrhq.com" title="Email"><img src="images/icons/email.svg" alt="Email" width="40" height="40"></a> &nbsp;
-  <a href="https://github.com/endrhq" title="endr"><img src="images/icons/endr.svg" alt="endr" width="40" height="40"></a>
+  <a href="https://ezekielamitchell.com" title="Website"><img src="images/icons/website-v2.svg" alt="Website" width="32" height="32"></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ezekielmitchell/" title="LinkedIn"><img src="images/icons/linkedin-v2.svg" alt="LinkedIn" width="32" height="32"></a> &nbsp;&nbsp;
+  <a href="mailto:ezekiel@endrhq.com" title="Email"><img src="images/icons/email-v2.svg" alt="Email" width="32" height="32"></a> &nbsp;&nbsp;
+  <a href="https://github.com/endrhq" title="endr"><img src="images/icons/endr-v2.svg" alt="endr" width="32" height="32"></a>
 </p>
