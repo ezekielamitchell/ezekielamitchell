@@ -1,5 +1,11 @@
 # Profile artwork
 
+## Profile navigation icons
+
+- Added September 23, 2026: self-contained SVG icons for Website, LinkedIn, Email, and endr in `icons/`.
+- Used as linked images at the bottom of the personal profile, with descriptive alternative text and link titles.
+- The separate name/title SVGs are retained as historical assets and are no longer displayed in the profile README.
+
 ## Coastal detail — v2 (current)
 
 - Selected September 23, 2026 for Ezekiel A. Mitchell's personal GitHub profile.

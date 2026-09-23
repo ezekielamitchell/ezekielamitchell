@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-labelledby="title">
+  <title id="title">Email Ezekiel</title>
+  <rect x="0.5" y="0.5" width="43" height="43" rx="10" fill="#202725" stroke="#51615C"/>
+  <g fill="none" stroke="#F1EDE4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="10.5" y="14" width="23" height="17" rx="2.5"/>
+    <path d="m11.4 15 9.1 7.3a2.4 2.4 0 0 0 3 0l9.1-7.3M11.4 29.5l7.2-6.1M32.6 29.5l-7.2-6.1"/>
+  </g>
+</svg>
