@@ -26,12 +26,17 @@ Pursuing an **M.Eng. in Computer Engineering at Dartmouth College, Class of 2028
 
 ### 「 SELECTED WORK 」
 
-| Project | What you'll find |
-| :--- | :--- |
-| **[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)**<br><sub>EMBEDDED · TEAM PROJECT</sub> | A data-center training simulator built with a five-person team: ESP32 nodes, MQTT, and Python. |
-| **[project-aegis](https://github.com/ezekielamitchell/project-aegis)**<br><sub>PERCEPTION · ROBOTICS PROTOTYPE</sub> | Python perception and temporal verification with a Rust control module. Hardware integration remains unfinished. |
-| **[GUARDEN](https://github.com/ezekielamitchell/GUARDEN)**<br><sub>IoT · PROTOTYPE</sub> | Garden monitoring with camera-node firmware, MQTT ingestion, and a local dashboard. |
-| **[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)**<br><sub>PYTHON · RUST · WORK IN PROGRESS</sub> | Small programs, CLI experiments, and documented engineering workflows. |
+**[Winter River](https://github.com/ezekielamitchell/ECE-26.1-Winter-River)** &nbsp; <sub>EMBEDDED · TEAM PROJECT</sub><br>
+A data-center training simulator built with a five-person team: ESP32 nodes, MQTT, and Python.
+
+**[project-aegis](https://github.com/ezekielamitchell/project-aegis)** &nbsp; <sub>PERCEPTION · ROBOTICS PROTOTYPE</sub><br>
+Python perception and temporal verification with a Rust control module. Hardware integration remains unfinished.
+
+**[GUARDEN](https://github.com/ezekielamitchell/GUARDEN)** &nbsp; <sub>IoT · PROTOTYPE</sub><br>
+Garden monitoring with camera-node firmware, MQTT ingestion, and a local dashboard.
+
+**[defense-foundations](https://github.com/ezekielamitchell/defense-foundations)** &nbsp; <sub>PYTHON · RUST · WORK IN PROGRESS</sub><br>
+Small programs, CLI experiments, and documented engineering workflows.
 
 ### 「 APPROACH 」
 
