@@ -1,5 +1,14 @@
 # Profile artwork
 
+## Coastal detail — v2 (current)
+
+- Selected September 23, 2026 for Ezekiel A. Mitchell's personal GitHub profile.
+- Source: the finished coastal banner supplied by Ezekiel as a replacement for v1.
+- Output: `coastal-detail-v2.png`, 2172 × 724 pixels.
+- Copied unchanged: original detail, fine texture, composition, and centered white endr wordmark preserved. No new image generation or raster editing was performed for this version.
+- SHA-256: `4bdb15d489033b4596595ae3e0490cf0c863f62ae2f37532897c7dc4869ac1c7`.
+- Replaces v1 in the profile README; the prior artwork and its generation notes remain below for history.
+
 ## Coastal pixels — v1
 
 - Created September 23, 2026 for Ezekiel A. Mitchell's personal GitHub profile.

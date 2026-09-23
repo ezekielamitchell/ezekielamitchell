@@ -1,4 +1,4 @@
-<img src="images/coastal-pixels-v1.png" alt="A pixelated Pacific Northwest coast: moss-covered evergreens, sea stacks, and quiet water dissolving into warm grey fog." width="100%">
+<img src="images/coastal-detail-v2.png" alt="A finely textured Pacific Northwest coastline with evergreen trees, rugged sea stacks, mist, and the white endr wordmark." width="100%">
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="images/profile-title-mobile-dark.svg">
